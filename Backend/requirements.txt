@@ -1,0 +1,6 @@
+Django==4.2.2
+djangorestframework==3.14.1
+celery==5.3.1
+redis==4.5.3
+twilio==7.16.0
+sendgrid==6.8.0
