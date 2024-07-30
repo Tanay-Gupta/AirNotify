@@ -7,6 +7,20 @@ This project is a complete application that provides real-time flight status upd
 
 
 
+## Screenshots
+
+![App Screenshot](Screenshots/1.jph)
+![App Screenshot](Screenshots/2.jph)
+![App Screenshot](Screenshots/3.jph)
+![App Screenshot](Screenshots/4.jph)
+![App Screenshot](Screenshots/5.jph)
+![App Screenshot](Screenshots/6.jph)
+
+
+
+
+
+
 ## Features
 
 ##### Real-time Updates
