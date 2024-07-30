@@ -9,12 +9,12 @@ This project is a complete application that provides real-time flight status upd
 
 ## Screenshots
 
-![App Screenshot](Screenshots/1.jph)
-![App Screenshot](Screenshots/2.jph)
-![App Screenshot](Screenshots/3.jph)
-![App Screenshot](Screenshots/4.jph)
-![App Screenshot](Screenshots/5.jph)
-![App Screenshot](Screenshots/6.jph)
+![App Screenshot](Screenshots/1.jpg)
+![App Screenshot](Screenshots/2.jpg)
+![App Screenshot](Screenshots/3.jpg)
+![App Screenshot](Screenshots/4.jpg)
+![App Screenshot](Screenshots/5.jpg)
+![App Screenshot](Screenshots/6.jpg)
 
 
 
