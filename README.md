@@ -2,7 +2,7 @@
 # AirNotify: Flight Status Notification App
 
 
-This project is a complete application that provides real-time flight status updates and notifications to passengers. The backend is built with Django and the frontend is developed using Flutter. Additionally, the frontend can be easily migrated to React.js.tree /f
+This project is a complete application that provides real-time flight status updates and notifications to passengers. The backend is built with Django and the frontend is developed using Flutter. Additionally, the frontend can be easily migrated to React.js.
 
 
 
